@@ -20,6 +20,7 @@
 <br/>
 
 * 2年工作经验.NET菜鸟
+* 一个安静的程序员
 * 非常想提高自己的技术
 
 ---
@@ -67,6 +68,13 @@
 * Tech Principal
 * Architect
 * Team Lead
+* Speaker
+
+---
+
+## 技术栈
+
+![technical stack](img/technical_stack.png "Technical Stack")
 
 ---
 
